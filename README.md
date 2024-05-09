@@ -36,8 +36,8 @@ Print the predicted output.
 
 ## Program:
 ```
-# Developed by : Kamalesh sv
-# Register No : 22001133
+# Developed by : M THEJESWARAN
+# Register No : 212223240168
 
 import pandas as pd
 from sklearn import linear_model
